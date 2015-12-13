@@ -1,0 +1,30 @@
+tinysun@HanNetbook:~/Work/langswift/FactorInt/PollardRho$ .build/debug/PollardRho
+cycle_size=2
+cycle_size=4
+cycle_size=8
+cycle_size=16
+cycle_size=32
+cycle_size=64
+cycle_size=128
+cycle_size=256
+cycle_size=512
+cycle_size=1024
+cycle_size=2048
+cycle_size=4096
+cycle_size=8192
+cycle_size=16384
+cycle_size=32768
+cycle_size=65536
+cycle_size=131072
+cycle_size=262144
+cycle_size=524288
+cycle_size=1048576
+cycle_size=2097152
+cycle_size=4194304
+cycle_size=8388608
+cycle_size=16777216
+1238926361552897
+
+real	3m59.297s
+user	3m58.411s
+sys	0m0.052s
