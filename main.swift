@@ -1,4 +1,4 @@
-import CGmp
+import CGMP
 
 func factor(inout n: mpz_t) {
 	var x_fixed = mpz_t()

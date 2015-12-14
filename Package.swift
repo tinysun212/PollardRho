@@ -2,7 +2,7 @@ import PackageDescription
 
 let package = Package(
 	dependencies: [
-		.Package(url: "../CGmp", majorVersion: 1)
+		.Package(url: "../CGMP", majorVersion: 1)
 	]
 )
 
