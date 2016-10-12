@@ -1,8 +1,9 @@
 import PackageDescription
 
 let package = Package(
+	name: "PollardRho",
 	dependencies: [
-		.Package(url: "../CGMP", majorVersion: 1)
+		.Package(url: "https://github.com/tinysun212/GMP.git", majorVersion: 1)
 	]
 )
 
