@@ -29,5 +29,7 @@ cd PollardRho
 swift build -c release
 .build/release/PollardRho
 ```
+You can download the Swift compiler at https://swift.org/download/ for Linux, https://github.com/tinysun212/swift-windows/releases for Cygwin.
+
 ### About the algorithm
 See [here](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm#Application).
